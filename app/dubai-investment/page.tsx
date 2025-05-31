@@ -593,10 +593,10 @@ export default function DubaiInvestmentPage() {
                 className="bg-gradient-to-br from-cyan-500/10 to-blue-500/10 border-cyan-500/20 hover:border-cyan-400/40 transition-all duration-300 hover:scale-105"
               >
                 <CardContent className="p-6 text-center">
-                  <div className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent mb-2">
+                  <div className="text-2xl md:text-3xl font-bold bg-gradient-to-r from-cyan-700 to-blue-900 bg-clip-text text-transparent mb-2">
                     {metric.value}
                   </div>
-                  <div className="text-xs md:text-sm text-gray-300 uppercase tracking-wider">
+                  <div className="text-xs md:text-sm text-gray-600 uppercase tracking-wider">
                     {metric.label}
                   </div>
                 </CardContent>
@@ -630,10 +630,10 @@ export default function DubaiInvestmentPage() {
 
                   <Card className="bg-gradient-to-r from-cyan-500/10 to-blue-500/10 border-l-4 border-cyan-400">
                     <CardContent className="p-6">
-                      <h4 className="text-xl font-semibold text-cyan-400 mb-3">
+                      <h4 className="text-xl font-semibold text-cyan-900 mb-3">
                         Why Dubai is the Investment Capital of the Future
                       </h4>
-                      <p className="text-gray-300">
+                      <p className="text-gray-600">
                         As of May 2025, Dubai welcomed 3.94 million residents
                         and attracted 6,700 high-net-worth individuals in
                         2024—more than any other global city. This population
@@ -922,10 +922,10 @@ export default function DubaiInvestmentPage() {
               <CardContent className="space-y-6">
                 <Card className="bg-gradient-to-r from-cyan-500/10 to-blue-500/10 border-l-4 border-cyan-400">
                   <CardContent className="p-6">
-                    <h4 className="text-xl font-semibold text-cyan-400 mb-3">
+                    <h4 className="text-xl font-semibold text-cyan-900 mb-3">
                       Final Takeaway: Dubai is the World's Investment Launchpad
                     </h4>
-                    <p className="text-gray-300">
+                    <p className="text-gray-600">
                       Every sector of Dubai's economy is firing on all
                       cylinders. With a pro-growth government, robust regulatory
                       frameworks, and visionary infrastructure, 2025-2026 is the
@@ -969,10 +969,10 @@ export default function DubaiInvestmentPage() {
           <section className="mt-16 mb-16">
             <Card className="bg-gradient-to-r from-cyan-500/20 to-blue-500/20 border-2 border-cyan-500/30">
               <CardContent className="p-12 text-center">
-                <h2 className="text-2xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-400 to-blue-400 bg-clip-text text-transparent">
+                <h2 className="text-2xl md:text-3xl font-bold mb-6 bg-gradient-to-r from-cyan-700 to-blue-900 bg-clip-text text-transparent">
                   Make Data-Driven Investment Decisions in Dubai
                 </h2>
-                <p className="text-base md:text-lg text-gray-300 text-lg mb-8 max-w-3xl mx-auto">
+                <p className="text-base md:text-lg text-gray-600 text-lg mb-8 max-w-3xl mx-auto">
                   Partner with our expert data analytics team to unlock
                   insights, identify opportunities, and maximize ROI in Dubai's
                   booming economy. We transform complex market data into
